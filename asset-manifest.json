@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/static/css/main.ba7bdaa5.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/static/js/main.8de497e4.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/static/js/main.8de497e4.chunk.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/static/js/runtime-main.f631c254.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/static/js/runtime-main.f631c254.js.map",
+    "static/js/2.07d635c1.chunk.js": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/static/js/2.07d635c1.chunk.js",
+    "static/js/2.07d635c1.chunk.js.map": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/static/js/2.07d635c1.chunk.js.map",
+    "index.html": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/index.html",
+    "static/css/main.ba7bdaa5.chunk.css.map": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/static/css/main.ba7bdaa5.chunk.css.map",
+    "static/js/2.07d635c1.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/static/js/2.07d635c1.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/static/media/Poppins-SemiBold.cce5625b.ttf",
+    "static/media/app.module.scss": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/static/media/rechart_m.4c2ab4e2.png",
+    "static/media/dog_4.png": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/static/media/dog_4.63b906ac.png",
+    "static/media/o_6.png": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/static/media/o_6.ea0baa69.png",
+    "static/media/o_7.png": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211107.235337/static/media/o_7.e5af5835.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f631c254.js",
+    "static/js/2.07d635c1.chunk.js",
+    "static/css/main.ba7bdaa5.chunk.css",
+    "static/js/main.8de497e4.chunk.js"
+  ]
+}
