@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/css/main.46e822df.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/js/main.ab27498e.chunk.js",
-    "main.js.map": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/js/main.ab27498e.chunk.js.map",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/js/runtime-main.b0c94238.js",
-    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/js/runtime-main.b0c94238.js.map",
-    "static/js/2.df4053e2.chunk.js": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/js/2.df4053e2.chunk.js",
-    "static/js/2.df4053e2.chunk.js.map": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/js/2.df4053e2.chunk.js.map",
-    "index.html": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/index.html",
-    "static/css/main.46e822df.chunk.css.map": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/css/main.46e822df.chunk.css.map",
-    "static/js/2.df4053e2.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/js/2.df4053e2.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/media/Poppins-SemiBold.cce5625b.ttf",
-    "static/media/app.module.scss": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/media/rechart_m.4c2ab4e2.png",
-    "static/media/cp_icon.svg": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/media/cp_icon.7c31137b.svg",
-    "static/media/cpied_icon.svg": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/media/cpied_icon.c92c0481.svg",
-    "static/media/dog_4.png": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/media/dog_4.63b906ac.png",
-    "static/media/o_6.png": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/media/o_6.ea0baa69.png",
-    "static/media/o_7.png": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.110802/static/media/o_7.e5af5835.png"
+    "main.css": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/css/main.fe2ce4ea.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/js/main.ab27498e.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/js/main.ab27498e.chunk.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/js/runtime-main.fd7602a3.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/js/runtime-main.fd7602a3.js.map",
+    "static/js/2.df4053e2.chunk.js": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/js/2.df4053e2.chunk.js",
+    "static/js/2.df4053e2.chunk.js.map": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/js/2.df4053e2.chunk.js.map",
+    "index.html": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/index.html",
+    "static/css/main.fe2ce4ea.chunk.css.map": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/css/main.fe2ce4ea.chunk.css.map",
+    "static/js/2.df4053e2.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/js/2.df4053e2.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/media/Poppins-SemiBold.cce5625b.ttf",
+    "static/media/app.module.scss": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/media/rechart_m.4c2ab4e2.png",
+    "static/media/cp_icon.svg": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/media/cp_icon.7c31137b.svg",
+    "static/media/cpied_icon.svg": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/media/cpied_icon.c92c0481.svg",
+    "static/media/dog_4.png": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/media/dog_4.63b906ac.png",
+    "static/media/o_6.png": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/media/o_6.ea0baa69.png",
+    "static/media/o_7.png": "https://cdn.jsdelivr.net/gh/strayinu-developer/strayinu-frontend@20211108.112039/static/media/o_7.e5af5835.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0c94238.js",
+    "static/js/runtime-main.fd7602a3.js",
     "static/js/2.df4053e2.chunk.js",
-    "static/css/main.46e822df.chunk.css",
+    "static/css/main.fe2ce4ea.chunk.css",
     "static/js/main.ab27498e.chunk.js"
   ]
 }
